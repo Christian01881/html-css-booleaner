@@ -24,3 +24,24 @@ div {
    font-size: 12px; 
 }
 
+.giallo{
+    background-color: yellow;
+}
+
+.bianco{
+    color: white;
+    background-color: #21a9e5;
+}
+
+.colonna1-2{
+    width: 25%;
+}
+
+.colonna3{
+    width: 50%;
+}
+
+.celeste{
+    background-color: lightblue;
+}
+
